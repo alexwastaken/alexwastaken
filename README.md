@@ -1,6 +1,6 @@
 # Alex Parsons
 
-Engineer based in San Diego, with experience in data engineering, data governance, and analytics.
+Engineer based in San Diego
 
 Currently at Blooio. Previously ICW Group and Sony.
 
